@@ -1,0 +1,49 @@
+{
+    "name": "Aquevix Solutions",
+    "description": "<p>Aquevix is the go to company that can weave the abstract into a finished product. We are a software company that provides innovative, business solutions worldwide. Need an API? We got you covered. We provide full REST\/JSON based API implementation and related apps with best practices! We are capable of developing highly specialized APIs that integrate seamlessly with powerful apps and increase overall performance of applications.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/aquevix-logo-50px.png",
+    "tags": [
+        "agencies",
+        "have api",
+        "india"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/aquevix-solutions\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Aquevix Solutions",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/aquevix-logo-50px.png",
+            "humanURL": "http:\/\/www.aquevix.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/aquevix-solutions-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.aquevix.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.aquevix.com\/feed\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/aquevix"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.aquevix.com\/"
+        }
+    ]
+}
